@@ -1,5 +1,4 @@
-## Hi there 👋
-
+`Jus'` &nbsp; __SSH__ ing &nbsp; _and_ &nbsp; explorin'
 <!--
 **AMS003010/AMS003010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
