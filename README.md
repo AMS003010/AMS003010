@@ -1,5 +1,5 @@
 # Hello there 🖐️ Abhijith here
-- doing my 3rd year in college
+- studying _Computer Science_
 - explorin' `Rust` and `Distributed Systems`
 - also 😅 trying to figure out [Singularity](https://github.com/AMS003010/Singularity)
 <br/>
