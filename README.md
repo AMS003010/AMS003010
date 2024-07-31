@@ -1,7 +1,7 @@
 # Hello there 🖐️ Abhijith here
 - studying _Computer Science_
 - explorin' `Rust` and `Distributed Systems`
-- also 😅 trying to figure out [Singularity](https://github.com/AMS003010/Singularity)
+- Figuring out [Singularity](https://github.com/AMS003010/Singularity)
 <br/>
 
 ## Profile Statistics
