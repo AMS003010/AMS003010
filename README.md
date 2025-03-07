@@ -5,7 +5,7 @@
 <br/>
 
 Love reading fiction and Sci-Fi 📖😌
-- Currently reading [The Inheritance Games 🎲]([https://danbrown.com/the-lost-symbol/](https://www.goodreads.com/book/show/52439531-the-inheritance-games))
+- Currently reading [The Inheritance Games 🎲](https://www.goodreads.com/book/show/52439531-the-inheritance-games)
 
 <br/>
 
