@@ -1,7 +1,7 @@
 # Hello there 🖐️ Abhijith here
 - studying _Computer Science_
 - explorin' `Rust` and `Distributed Systems`
-- Figuring out [Singularity](https://github.com/AMS003010/Singularity)
+- Figuring out [Chimera](https://github.com/AMS003010/Chimera)
 <br/>
 
 Love reading fiction and Sci-Fi 📖😌
