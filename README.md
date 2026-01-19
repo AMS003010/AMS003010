@@ -1,6 +1,7 @@
 # Hello there 🖐️ Abhijith here
 - studying _Computer Science_
 - explorin' `Rust` and `Distributed Systems`
+- learned a lot during [Google Summer of code 2025](https://summerofcode.withgoogle.com/archive/2025/projects/Rk388fWO)
 - Figuring out [Chimera](https://github.com/AMS003010/Chimera)
 <br/>
 
