@@ -4,6 +4,7 @@
 - love talking about system concepts and new protocols !!
 - learned a lot during [Google Summer of code 2025](https://summerofcode.withgoogle.com/archive/2025/projects/Rk388fWO)
 - Figuring out [Chimera](https://github.com/AMS003010/Chimera)
+- Check out my blogs on [Medium](https://medium.com/@ams_132)
 <br/>
 
 Love reading fiction and Sci-Fi 📖😌
