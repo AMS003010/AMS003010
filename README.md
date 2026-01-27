@@ -1,14 +1,22 @@
-# Hello there 🖐️ Abhijith here
-- student at PES University
-- explorin' `Rust` and `Distributed Systems`
-- love talking about system concepts and new protocols !!
-- learned a lot during [Google Summer of code 2025](https://summerofcode.withgoogle.com/archive/2025/projects/Rk388fWO)
+# Hello there 🖐️
+- Currently Interning at Nokia Networks
+- At home, mostly spending time with my pi's and switches
+- Explorin' `Rust` and `Distributed Systems`
+- Love talking about system concepts and new protocols !!
 - Figuring out [Chimera](https://github.com/AMS003010/Chimera)
 - Check out my blogs on [Medium](https://medium.com/@ams_132)
 <br/>
 
 Love reading fiction and Sci-Fi 📖😌
 - Currently reading [The Immortals Of Meluha](https://www.goodreads.com/book/show/7913305-the-immortals-of-meluha)
+
+<br/>
+
+Experience | Organization | About Work |
+---|---|---|
+**Google Summer of Code 2025** | CTDS | [Article](https://medium.com/@ams_132/gsoc-2025-center-for-translational-data-science-fda147e16cf6) |
+**Software Engineering Intern** | Twospoon.ai | Worked on build AI-powered meta ads monitoring dashboards  |
+**Software Engineering Intern** | Nokia Networks | Building solutions for Cloud platforms |
 
 <br/>
 
